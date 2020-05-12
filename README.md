@@ -1,5 +1,5 @@
 # iFood Data Business Analyst Test
-
+<img width="844" alt="3d_cluster" src="https://user-images.githubusercontent.com/34256361/81630198-52883300-93db-11ea-9933-283000d91696.png">
 
 In this project, we are given a sample dataset, that mocks metainformation on the customer and on iFood campaign interactions with that customer. The challenge is to understand the data, find business opportunities & insights and to propose any data driven action to optimize the campaigns results & generate value to the company.
 
