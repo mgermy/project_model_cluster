@@ -13,6 +13,7 @@ If you want to run locally, I recommend to install these two libraries:
 ```
 imblearn
 ```
+and
 ```
 pycaret
 ```
