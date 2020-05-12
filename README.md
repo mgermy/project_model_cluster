@@ -1,5 +1,6 @@
 # iFood Data Business Analyst Test
 
+
 In this project, we are given a sample dataset, that mocks metainformation on the customer and on iFood campaign interactions with that customer. The challenge is to understand the data, find business opportunities & insights and to propose any data driven action to optimize the campaigns results & generate value to the company.
 
 ## Getting Started
