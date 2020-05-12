@@ -28,3 +28,8 @@ Key Objectives are:
 - Explore the data – be creative and pay attention to the details. You need to provide the marketing team a better understanding of the characteristic features of respondents;
 - Propose and describe a customer segmentation based on customers behaviors;
 - Create a predictive model which allows the company to maximize the profit of the next marketing campaign.
+
+# Main Files
+* [EDA](https://github.com/mgermy/project_model_cluster/blob/master/EDA.ipynb) - EDA with first insights regarding the data
+* [Customer Segmentation](https://github.com/mgermy/project_model_cluster/blob/master/customer_seg.ipynb) - Customer segmentation applying clustering analysis
+* [Model](https://github.com/mgermy/project_model_cluster/blob/master/model.ipynb) - Machine learning modeling
